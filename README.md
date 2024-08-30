@@ -11,7 +11,7 @@ The key question to entertain is; how can we classify breast cancer patients int
 - EDA
 - Machine Learning Classification
 
-> More details can be found in [`analysis.ipynb`](notebook\analysis.ipynb).
+> More details can be found in [`analysis.ipynb`](notebook/analysis.ipynb).
 
 ### Results
 
